@@ -8,16 +8,18 @@ But it supports a single MFI Controller now (see below)
 
 ## Installing
 
-
-As its written using the current Swift 3, you will need XCode 8 (currently Beta 6).
+As its written using the current Swift 3, you will need at least XCode 8 (currently Beta 6).
 I'm also using Cocoapods to manage the dependancies
 
 Clone or download this repository
 
-Install the dependancies by running ```pod install```
+#Install cocoapods
+```sudo gem install cocoapods```
+
+#Install cocoapods dependencies
+go in the project directory with a terminal window and install the dependancies by running ```pod install```
 
 Open C64Emulator.xcworkspace and build and run
-  
 
 ## Basic usage instructions
 On start, you'll be presented with an empty view controller saying no programs currently cataloged.  If you switch to Disks view  you'll see no disaks avaialble.

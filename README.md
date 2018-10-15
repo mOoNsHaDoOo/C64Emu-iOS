@@ -15,10 +15,10 @@ Clone or download this repository
 
 ```git clone https://github.com/mOoNsHaDoOo/C64Emu-iOS```
 
-### Install cocoapods
+### Install CocoaPods
 ```sudo gem install cocoapods```
 
-### Install cocoapods dependencies
+### Install CocoaPods dependencies
 go in the project directory with a terminal window and install the dependancies by running ```pod install```
 
 Open C64Emulator.xcworkspace and build and run. Don't mind warnings.

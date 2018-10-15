@@ -13,10 +13,10 @@ I'm also using Cocoapods to manage the dependancies
 
 Clone or download this repository
 
-#Install cocoapods
+### Install cocoapods
 ```sudo gem install cocoapods```
 
-#Install cocoapods dependencies
+### Install cocoapods dependencies
 go in the project directory with a terminal window and install the dependancies by running ```pod install```
 
 Open C64Emulator.xcworkspace and build and run
